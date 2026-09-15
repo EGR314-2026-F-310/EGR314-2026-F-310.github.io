@@ -6,15 +6,11 @@ tags:
 
 ## Team Charter
 
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
-
-The team came about this team charter ....(add in your words datails on why this is your team's charter)
+- Our goal for this project is to deliver a product that will simplify and expedite processes construction workers currently utilize. We want our solution to be simple and accessible to the point where workers will be able to use it with minimal training. In terms of our personal development, we hope that by completing this project we will gain the experience necessary to succeed in both the capstone project and in our engineering career. We would like to be able to put this project on our portfolios to impress employers in the future.
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
-
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+- It may seem to be similar to a team charter, but now spend some time considering your team's product mission statement. Again, you can make the same assumptions about the product, technology, market, etc as described in the project description, but, instead of focusing on what translates to success for you and your team, describe the distilled purpose, function, or reason for your product to exist.
 
 ## Other Organizational Information
 
