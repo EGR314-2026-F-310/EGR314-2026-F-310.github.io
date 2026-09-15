@@ -26,7 +26,7 @@ Professor Suo<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Julian Mitchell                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
-| Enzo Muggler                | link |
-| Alessandro Garcia                | link |
+| Julian Mitchell                   | link |
+| Enzo Muggler                      | link |
+| Alessandro Garcia                 | link |
 | Gael Chavez Rivera                | link |
