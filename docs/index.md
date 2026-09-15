@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Spring - 202x<br>
+<font size="8">Jaeger Pipe Inspection <br>
+<font size="5">Team 310<br>
+**Submission: Septemeber, 15, 2026**<br>
+Fall - 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Professor Name<br>
+Professor Suo<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Julian Mitchell                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Enzo Muggler                | link |
+| Alessandro Garcia                | link |
+| Gael Chavez Rivera                | link |
