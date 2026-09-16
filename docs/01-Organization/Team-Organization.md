@@ -10,8 +10,7 @@ tags:
 
 ## Product Mission Statement
 
-- It may seem to be similar to a team charter, but now spend some time considering your team's product mission statement. Again, you can make the same assumptions about the product, technology, market, etc as described in the project description, but, instead of focusing on what translates to success for you and your team, describe the distilled purpose, function, or reason for your product to exist.
-
+- The Pipe Crawler is designed with a simple mission: to travel through pipes, specifically those underground or in hard-to-reach locations, to explore and analyze them internally, assessing their condition and locating potential leaks or problem areas. This helps make the repair and maintenance process more efficient by shortening diagnostic time and completely eliminating the need for external inspection or searches.
 ## Other Organizational Information
 
 Other details about the organization structure of the team can be reviewed in ["Appendix: Team Organization Information."](https://embedded-systems-design.github.io/template_report/Appendix/01-Organization-Information/Append-Organization/)
