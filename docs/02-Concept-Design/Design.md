@@ -27,9 +27,21 @@ Figure 2: Final State of the Main Concept Generation Board
 
 __________________________________________________________
 
-**Project Goals, Concepts Generated and Ranking**
+**Project Goals and Concepts Generated/Ranked**
 
-The core goals of the project include detection of defects or faults, retrievability of the deliverable and connection to relay data collected, which may be wireless or tethered. The concepts generated were broken down into 4 categories: body type, fault detection, location detection and traversal. The body types discussed include 
+The core goals of the project include detection of defects or faults, retrievability of the deliverable and connection to relay data collected, which may be wireless or tethered. The concepts generated were broken down into 4 categories: body type, fault detection, location detection and traversal.
+
+Concepts Generated Table:  
+
+| Traversal | Fault Detection | Location Detection | Body Type |
+| --- | --- | --- | --- |
+| Tank Tracks | Camera with Flash | Wheel Encoders | Pill Box |
+| Powered Wheels | IR Sensor | Signal Bouncing | Ball Casing | 
+| Vibration | Sonar Sensing | GPS | Tube Casing |
+| Pulley System | Lidar | Transmitter Pylons | Nested Rod "Tent" Assembly | 
+| Magnetic Track | "Whisker" Force Sensors | Tethered Rope Markers | Spring-Linked Assembly | 
+
+The core construction of the deliverable will be a Nested Rod "Tent" like assembly in which layers can extend into the tube with sensors facing at the front to visually detect faults. A camera with a flash as well as an IR sensor will be included to detect blockages and potential cracks. A tethered rope marker will be included inside the pushrod assemble due to the body type not containing any wheels to track movement on. 
 
 <img src="Rank_Sort.jpg" width="400">
 
