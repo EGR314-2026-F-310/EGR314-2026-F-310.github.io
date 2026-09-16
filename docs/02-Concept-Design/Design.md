@@ -27,4 +27,10 @@ Figure 2: Final State of the Main Concept Generation Board
 
 __________________________________________________________
 
+**Project Goals, Concepts Generated and Ranking**
 
+The core goals of the project include detection of defects or faults, retrievability of the deliverable and connection to relay data collected, which may be wireless or tethered. The concepts generated were broken down into 4 categories: body type, fault detection, location detection and traversal. The body types discussed include 
+
+<img src="Rank_Sort.jpg" width="400">
+
+Figure 3: Handwritten Concept Ranking/Sorting
