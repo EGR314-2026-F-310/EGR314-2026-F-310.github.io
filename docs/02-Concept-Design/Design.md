@@ -46,3 +46,9 @@ The core construction of the deliverable will be a Nested Rod "Tent" like assemb
 <img src="Rank_Sort.jpg" width="400">
 
 Figure 3: Handwritten Concept Ranking/Sorting
+
+
+**Video Presentation of Concepts Generated**
+
+Team 310 Presentation - 
+[![Watch the video](https://img.youtube.com/vi/9a7cBaLFLh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
