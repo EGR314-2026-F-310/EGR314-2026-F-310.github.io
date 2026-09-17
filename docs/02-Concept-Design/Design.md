@@ -14,8 +14,9 @@ _________________________________________________________
 
 During the group concept generation meeting each team member introduced various ideas of traversal, fault detection sensors and packaging for the deliverable. At various points a member would approach the board and draw their idea for the deliverable as a whole, and this process continued until each member had contributed 4-5 different concepts across several established categories including body type, fault detection, location detection and Method of travel. Each idea was loosely drawn on the board to see similarities and differences between models.
 
-![Brainstorming Progress](../docs/Brainstorming_Progress_1.jpg)
-<img src="Brainstorming_Progress_1.jpg" width="400">
+![Brainstorming Progress](progress_brainstorming.png)
+
+<img src="progress_brainstorming.png" width="400">
 
 Figure 1: An Image of the Early Concept Generation Process
 __________________________________________________________
