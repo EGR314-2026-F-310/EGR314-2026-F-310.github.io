@@ -41,14 +41,30 @@ Concepts Generated Table:
 | Pulley System | Lidar | Transmitter Pylons | Nested Rod "Tent" Assembly | 
 | Magnetic Track | "Whisker" Force Sensors | Tethered Rope Markers | Spring-Linked Assembly | 
 
-The core construction of the deliverable will be a Nested Rod "Tent" like assembly in which layers can extend into the tube with sensors facing at the front to visually detect faults. A camera with a flash as well as an IR sensor will be included to detect blockages and potential cracks. A tethered rope marker will be included inside the pushrod assemble due to the body type not containing any wheels to track movement on. 
-
 <img src="Rank_Sort.jpg" width="400">
 
 Figure 3: Handwritten Concept Ranking/Sorting
 
+**Rationale for Ranking**
+
+Traversal:
+	
+  Our deciding factor regarding our method of traversal was our ability to fit our electronics inside the pipe. A pushrod mechanism would require the least amount of electronics inside the pipe, meaning our electronics would be less restricted by size. This leads to our second pick of powered wheels. This was our first idea for traversing through pipes, and remains as our most thought out. We brainstormed things like wheel count, wheel type, power delivery, and other specifications.
+
+Fault Detection:
+	
+  Fault Detection was one of our most important categories, since this determines how our device completes its objective of detecting issues in the pipes it traverses. Our first pick is a camera with leds to provide light. This was one of our original ideas since it seemed like the easiest detection method since all analysis could be done by a human observer in real time. As opposed to our other methods of detection that would rely on numerical data and some software processing.
+
+Distance Tracking:
+	
+  This category persists of our methods of tracking how far into the pipe our device is. This is to help the workers using the device determine where exactly the faults they detect are. This category also relied heavily on our traversal method, since some of our ideas like wheel encoders and tethers are only feasible if we choose the traversal methods that coincide with them. We put wheel encoders as our number one pick since regardless of if we use powered or passive wheels, we can utilize an encoder. A tethered rope was our second since it could simplify our power and communication systems by allowing us to route cables to the device inside the pipe.
+
+Body Type:
+	
+  The body type of the device was our last category to rank since we came to the decision that the other three categories were both more important and influenced what body type we could choose. Our first idea was the spring linked design which took inspiration from long buses that have a linkage between their two carriages that allow them to turn corners. This would grant us more room for our electronics while still being able to take tight turns. Our second idea was the pill body, which just consists of a small tube like form that minimizes the space our electronics inhabit within the pipe.
+
 
 **Video Presentation of Concepts Generated**
 
-Team 310 Presentation - 
+Team 310 Presentation: 
 [![Watch the video](https://img.youtube.com/vi/9a7cBaLFLh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
