@@ -69,3 +69,5 @@ Body Type:
 
 Team 310 Presentation: 
 [![Watch the video](https://img.youtube.com/vi/9a7cBaLFLh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
+[![Video](https://img.youtube.com/vi/9a7cBaLFLh4/0.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
+
