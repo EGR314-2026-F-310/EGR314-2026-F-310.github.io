@@ -68,6 +68,14 @@ Body Type:
 **Video Presentation of Concepts Generated**
 
 Team 310 Presentation: 
-[![Watch the video](https://img.youtube.com/vi/9a7cBaLFLh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
-[![Video](https://img.youtube.com/vi/9a7cBaLFLh4/0.jpg)](https://www.youtube.com/watch?v=9a7cBaLFLh4)
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/9a7cBaLFLh4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
+
 
