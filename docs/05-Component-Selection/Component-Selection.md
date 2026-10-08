@@ -1,5 +1,3 @@
-# Primary Components 
-
 ## Servo Motors
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
@@ -8,7 +6,7 @@
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
-|DFRobot|[SER0046](https://www.digikey.com/en/products/detail/dfrobot/SER0046/11613083)|$6.900|•270 degree range<br> of motion<br> •Low power<br> consumption <br> •Can be manually<br> rotated 360 degrees|•Light Torque (1.5 kg*cm)<br>•Cheaper options offer<br> similar specs<br>•Large component housing|
+|DFRobot|[SER0046](https://www.digikey.com/en/products/detail/dfrobot/SER0046/11613083)|$6.90|•270 degree range<br> of motion<br> •Low power<br> consumption <br> •Can be manually<br> rotated 360 degrees|•Light Torque (1.5 kg*cm)<br>•Cheaper options offer<br> similar specs<br>•Large component housing|
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
@@ -74,15 +72,15 @@
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
-|Microchip Technology|[MIC5156YM](https://www.digikey.com/en/products/detail/microchip-technology/MIC5156YM/1030144?s=N4IgTCBcDaIKwHYBsBaAjADjQThXFAcgCIgC6AvkA)|$3.77|•||
+|Microchip Technology|[MIC5156YM](https://www.digikey.com/en/products/detail/microchip-technology/MIC5156YM/1030144?s=N4IgTCBcDaIKwHYBsBaAjADjQThXFAcgCIgC6AvkA)|$3.77|•Greater operating temperature range (-40 C -> 85 C)<br>•Low current supply required (2.7 mA)|•Low quantity in stock<br>•Much lower efficiency rating for 12V->5V (41.7%)|
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
-|Analog Devices Inc.|[LT1945EMS#TRPBF](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1945EMS-TRPBF/960720)|$7.59|•|•Most expensive option by a factor of 2<br>•Smaller range for voltage input (1.2V-15V)|
+|Analog Devices Inc.|[LT1945EMS#TRPBF](https://www.digikey.com/en/products/detail/analog-devices-inc/LT1945EMS-TRPBF/960720)|$7.59|•Dual voltage output<br>•Reasonable quantity in stock<br>|•Most expensive option by a factor of 2<br>•Smaller range for voltage input (1.2V-15V)<br>•Low current draw available|
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
-|Texas Instruments|[LMR33620CDDAR](https://www.digikey.com/en/products/detail/texas-instruments/LMR33620CDDAR/8554846)|$2.89|•Most cost effective option<br>•Greatest quantity of parts in stock<br>•Appropriate output current (2A max.)||
+|Texas Instruments|[LMR33620CDDAR](https://www.digikey.com/en/products/detail/texas-instruments/LMR33620CDDAR/8554846)|$2.89|•Most cost effective option<br>•Greatest quantity of parts in stock<br>•Appropriate output current (2A max.)|•May generate EMF that could interfere with analog components<br>•Higher current draw may impact efficiency|
 
 ## Power Supplies
 
