@@ -84,7 +84,7 @@
 |---|---|---|---|---|
 |Texas Instruments|[LMR33620CDDAR](https://www.digikey.com/en/products/detail/texas-instruments/LMR33620CDDAR/8554846)|$2.89|•Most cost effective option<br>•Greatest quantity of parts in stock<br>•Appropriate output current (2A max.)||
 
-## Power Supplys
+## Power Supplies
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
