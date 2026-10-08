@@ -12,6 +12,10 @@
 |---|---|---|---|---|
 |DFRobot|[SER0006](https://www.digikey.com/en/pChroducts/detail/dfrobot/SER0006/7597224)|$3.62|•Light weight<br> construction<br>•Cheapest option of<br>the three<br>•Lower current draw<br>|•180 degree rotation <br>•Marginally higher torque<br>than a SER0046 (1.6 kg*cm) <br> •Large component housing<br>|
 
+### Rationale
+
+As similar as these three different models can be, we choose option 2 (SER0046) due to its consistency in weight and torque, as well as its bigger range of motion compared to the other two.
+
 ## Drivetrain Motors
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
@@ -25,6 +29,10 @@
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
 |Nidec Components|[MG16B-120-AB-00](https://www.digikey.com/en/products/detail/nidec-components/MG16B-120-AB-00/6469521)|$46.51|•Very high output torque (90 mNm)<br>•Lowest rpm (100)|•Expensive<br>•Larger body<br>•12VDC - will need voltage regulator|
+
+### Rationale
+
+	We decided to go with the third option because it would require the least amount of hardware design to be viable. The other options would require us to design a gearbox to reduce the RPM and increase the torque of the motor. We would rather not have to do this, so picking option 3, which features this gearbox pre-installed, was the best option for us, despite its cons.
 
 ## IR Receivers
 
@@ -40,6 +48,10 @@
 |---|---|---|---|---|
 |Vishay|[TSSP57038TT1](http://TSSP57038TT1CT-ND)|$1.54|•Low current draw (700µA)<br>•Low sensitivity to bright irradiance|•Most expensive<br>•Lower center frequency (38 kHz)<br>•Complex pinout|
 
+### Rationale
+
+	We have decided to go with the TSOP6256TT because it had the highest center frequency for the lowest price. The higher the center frequency of the part, the more accurate the reading will be. Although this choice had the most sensitivity to bright irradiance, it would not be such a big issue since our working area is inside an enclosed pipe.
+
 ## IR Emitters
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
@@ -53,6 +65,10 @@
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
 |Kingbright|[APA3010F3C-GX](https://www.digikey.com/en/products/detail/kingbright/APA3010F3C-GX/2757934?_gl=1*15vhc31*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw25fWBhAVEiwAMopNjnX8LKtFDKKKCwFQz0kozuIlXsvKDchur2SyMpzhnAWhLSI9g8RV4RoCNwAQAvD_BwE&gclsrc=aw.ds)|$0.36|•Lowest price<br>•Low current draw (20mA)|•Lowest radiant intensity (1.2mW/sr @ 20mA)|
+
+### Rationale
+  
+  We decided to go with the VSMY2941GX01 because it has a good radiant intensity at a low current draw. Although it was not the most powerful of the options, it fulfilled our criteria at a fairly low price.
 
 ## Cameras
 
@@ -68,6 +84,10 @@
 |---|---|---|---|---|
 |Leopard Imaging|[LI-IMX219-MIPI-FF-NANO-H90](https://www.digikey.com/en/products/detail/himax/HM01B0-MNA-00FT870/14109821)|$29.00|•Long ribbon cable<br>•High resolution (3280 x 2464)<br>•Good FPS (21)|•Most expensive<br>•41 in stock|
 
+### Rationale
+
+	We chose the LI-IMX219-MIPI-FF-NANO-H90 because it had the longest ribbon cable, good resolution, and decent frames per second. The long cable length allows us to better place the camera in our design. Preferably, we want a camera with higher FPS, but the cable length and high resolution made us stick with this choice.
+
 ## Voltage Regulators
 
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
@@ -81,6 +101,10 @@
 |Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
 |---|---|---|---|---|
 |Texas Instruments|[LMR33620CDDAR](https://www.digikey.com/en/products/detail/texas-instruments/LMR33620CDDAR/8554846)|$2.89|•Most cost effective option<br>•Greatest quantity of parts in stock<br>•Appropriate output current (2A max.)|•May generate EMF that could interfere with analog components<br>•Higher current draw may impact efficiency|
+
+### Rationale
+
+  The best option for this project will be the Texas Instruments LMR33620DDAR. While it may not offer dual voltage output, it does provide an effective regulator that is efficient at a reasonable price. The output current maximum of 2 amps is also another attractive feature, whereas other regulators at this price point seem to provide less than 1 A. Even while maximizing the current drawn from this component it's efficiency should still remain high enough for the time we intend on operating the whole system.
 
 ## Power Supplies
 
@@ -96,3 +120,23 @@
 |---|---|---|---|---|
 |Panasonic Energy|[6LF22XWA/B](https://www.digikey.com/en/products/detail/panasonic-energy/6LF22XWA-B/5067196)|$2.98|•Most cost effective option<br>•Large quantity in stock<br>•Potential to mount on the "snake"|•Low capacity (614 mAH)<br>•Would require a boost converter<br>•Current supply would not be enough for certain components|
 
+### Rationale
+
+  The best option for this project will be the 12V Ni-MH Rechargeable Battery from Oznium. This battery fits snuggly into the overall budget for the project, and also provides enough capacity to run all of the components for 1-2 hours at a time. The 12V provided also work significantly better than the 9V because the drivetrain motor would require 9V to be boosted. In every metric, primarily capacity, cost and voltage supplied, this battery pack works best.
+
+# Bill of Materials
+|Subgroup|Component Category|Part Number|Unit Price|Quantity Ordered|
+|---|---|---|---|---|
+|Pulley Mech.|Servo Motor|SER0046|$6.90|4|
+|Drivetrain|Bevel Gears|N/A|$19.99|1|
+|Drivetrain|Motor|MG16B|$46.51|1|
+|IR|Receiver|TSOP6256TT|$1.20|5|
+|IR|Emitter|VSMY2941GX01|$0.92|5|
+|Camera|Camera|LI-IMX219-MIPI-FF-NANO-H90|$29.00|2|
+|Camera|Ribbon Connector|FFC3A20-15-G|$0.48|5|
+|Power Supply|Voltage Regulator|LMR33620CDDAR|$2.89|5|
+|Power Supply|12V Battery Pack|N/A|$14.89|1|
+|Power Supply|Battery Pack Wall Charger|N/A|$11.69|1|
+|Processing|Microcontroller|ESP32-C6-WROOM-1-N8|$5.55|3|
+
+The total for parts ordered is $222.78.
