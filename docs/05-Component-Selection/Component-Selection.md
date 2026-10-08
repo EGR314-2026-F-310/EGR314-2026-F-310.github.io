@@ -52,8 +52,17 @@
 <details>
 <summary>Cameras</summary>
 
-|Header 1|Header 2|Header3|
-|---|---|---|
+|Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
+|---|---|---|---|---|
+|Arducam|[B0182](https://www.digikey.com/en/products/detail/arducam/B0182/29358216)|$22.78|•High resolution (3280 x 2464)<br>•Smallest pixel size (1.1µm x 1.1µm)|•Short ribbon cable<br>•No listed FPS<br>•No found datasheet|
+
+|Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
+|---|---|---|---|---|
+|Himax|[HM01B0-MNA-00FT870](https://www.digikey.com/en/products/detail/himax/HM01B0-MNA-00FT870/14109821)|$19.51|•Best FPS(60) <br>•Best price |•Short ribbon cable<br>•Low resolution (324 x 324)|
+
+|Manufacturer|Component ID|Cost / 1 Count|Pros|Cons|
+|---|---|---|---|---|
+|Leopard Imaging|[LI-IMX219-MIPI-FF-NANO-H90](https://www.digikey.com/en/products/detail/himax/HM01B0-MNA-00FT870/14109821)|$29.00|•Long ribbon cable<br>•High resolution (3280 x 2464)<br>•Good FPS (21)|•Most expensive<br>•41 in stock|
 
 </details>
 
